@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="$PROJECT_DIR$/../../..">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../Mysql" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../../../" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
